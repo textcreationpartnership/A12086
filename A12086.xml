@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How to order any land, so as it may reteyne all the moysture that falleth thereon, and to improve it thereby</title>
+            <author>Shaw, John, writer on agriculture.</author>
+         </titleStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A12086</idno><idno type="EEBO-CITATION">23111739</idno>
+  <idno type="VID">26259</idno>
+  <idno type="EEBO-PROQUEST">2248532064</idno>
+  <idno type="STC">STC 22391.5</idno>
+  <idno type="STC">ESTC S976</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A12086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1781:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>How to order any land, so as it may reteyne all the moysture that falleth thereon, and to improve it thereby</title>
+                  <author>Shaw, John, writer on agriculture.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>B. Alsop,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1637?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Shaw by STC (2nd ed.).</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Water in agriculture --  Early works to 1800.</term>
+               <term type="topical_term">Soil moisture --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:26259:1"/>
+            <pb facs="tcp:26259:1"/>
+            <pb facs="tcp:26259:2"/>
+            <pb facs="tcp:26259:2"/>
+            <head>HOW TO ORDER ANY LAND, SO as it may reteyne all the moysture that falleth thereon: And to Im<g ref="char:EOLhyphen"/>prove it thereby.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or asmuch as the fatnesse of the soile is wa<g ref="char:EOLhyphen"/>shed away, when in the winter season the ground is so wet, that every showre is not received, and drunke in by the earth where upon it falleth, but passeth away, and carieth with it the Fatnesse, and Rich<g ref="char:EOLhyphen"/>nesse of the soyle that should remayne vpon the superficies of the earth, whereby barrennesse doeth ensue daily, al<g ref="char:EOLhyphen"/>though daily the <hi>Husbandman</hi> doe manure and dung the same. Therefore every one <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t would reteyne the Fat<g ref="char:EOLhyphen"/>nesse and Richnesse of their owne soyle for their own Land, must use meanes to reteine that, that would and doth carry away the Richnesse and Fatnes of their soyle from the same. And that every man may reserve the Fatnesse of his owne soyle for his owne Land, it is necessary to use and practise these points of Husbandrie hereafter declared. As first to mound his Land with bankes in every place where the wa<g ref="char:EOLhyphen"/>ter may have vent, and Current from of the same; secondly, to turne the vent and Current of all Land-waters into his owne ground, out from the high wayes, wast-grounds, and Commons belonging to or lying neere his owne Land, and if these two shall not be found Remedies sufficient, I shall hereafter declare some other. I know the latter is practised a little by some, but it is so little that it is to little purpose. For what availeth it for a man to let the water in at one
+<pb facs="tcp:26259:3"/> place, and to let it goe out at a thousand, but every man re<g ref="char:EOLhyphen"/>teyning all the water that falleth upon his owne ground, shall in short time finde it very availeable, for if this kinde of husbandrie onely were but used halfe the time that it hath beene neglected, men should finde their Lands to bee greatly Improoved by the same, the which every one may easily doe, and that to their owne great profit and ad<g ref="char:EOLhyphen"/>vantage and to the profit and advantage also of their farre Remote neighbours.</p>
+            <p>For if every one doe but consider how divers grounds hath beene much Improoved by watering, and overflow<g ref="char:EOLhyphen"/>ing the same neere unto Rivers, that in former times have beene but little worth, then they cannot deny, but that they also in high grounds may improove their Land by water<g ref="char:EOLhyphen"/>ing and overflowing the same, and that they may overflow it by stopping the vents and Currents of the water that shall fall upon the same, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when they shall bring the land-water vpon the same from their owne Corne Feilds, high<g ref="char:EOLhyphen"/>wayes, and other wast grounds and Commons.</p>
+            <p>Also, then will not their farre Remote neighbors, that use to bee annoyed with floods, and others that liue in <hi>Fenne</hi> Countries, bee so much annoyed with water as commonly they are, nay; if every one did but truely, and duely observe and practise this kind of Husbandry, they would not be annoyed at all: and therefore it must needs bee advantagious and profitable for those that live in <hi>Fen<g ref="char:EOLhyphen"/>ny</hi> Countryes, and others in the vale Countryes that are annoyed with Floods, as well as for those that live upon hilles and high grounds.</p>
+            <p>Now how easily it may bee effected, may any one soone understand, that can but understand how easily mischeifes may bee prevented, when they are prevented at the first ari<g ref="char:EOLhyphen"/>sing and beginning before they come to a head, and how
+<pb facs="tcp:26259:3"/> easily an Inconvenience may bee helped when every man shall put to their helping hands any one may judge. Wee know that the many sparkes of fire in Towne and Citty, so long as they are kept within bounds are serviceable, and there is no dammage or danger susteyned by them; but if by misfortune or negligence they get out of their bounds what disasters doe they cause. Even so the many drops that doe fall in a Countrey if they should bee kept within bounds in the severall Closes and Lordships wherein they fall, they would be serviceable, and advantagious, which other wayes destroy whole Feilds of Corne, breake downe Bridges, drowne Cattle, and sometime overturne houses, and worke much other mischeifes also, for we may all very well know, it is never well with <hi>England</hi> when the Corne in the golden vales of <hi>England</hi> is destroyed through floods; now as the Husbandman may easily reteyne all the water that falleth upon his owne ground for his owne profit, and advantage, in his severall enclosures, so may he as easily o<g ref="char:EOLhyphen"/>pen a vent for his water at any time if there be cause and let it out from one Close, wherein there is no need, or where it may be harmeful, and bring it into another where<g ref="char:EOLhyphen"/>in it may doe good, and where there may bee great need thereof: now if there be any that cannot conceyue how or which way this point of husbandry may be effected with great facility and ease: let them but repaire unto the Au<g ref="char:EOLhyphen"/>thor, or unto his Assignes; and they will after taking view of their land show how easily it may be done.</p>
+            <div type="part">
+               <head>How to prepare barraine Land that yeeldeth no profit, for the Improoving of it, and how to make it Fertill.</head>
+               <p>THe first thing to be done when you would improove your barrain dry ground, is where it is levell, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where it can be easily brought to a levell, to mound it <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:26259:4"/> in square plots &amp; Closes, or otherwayes, as it shal be found most convenient with bankes. In such manner as that you may reteyne, and keepe all the water or moisture within the bounds thereof that shall fall upō it, or that may arise from Snow, or that may otherwise be brought upon the same.</p>
+               <p>Thus when it is well bounded, and mounded with bankes may you dung it well, or manure it in what sort you like best, and you shall be sure not to loose any part of your dung or manure through hastie and sudden showers, that commonly doth wash away a great part thereof.</p>
+               <p>But when it is dunged well, and well soked with moy<g ref="char:EOLhyphen"/>sture, or when it is in a manner overflowen; then to ma<g ref="char:EOLhyphen"/>nure it with dung or other Fat earth in the Manuring bar<g ref="char:EOLhyphen"/>row will mightily Improove it, for the drawing of the manuring barrow up and downe, and the trampling of the ground when it is so moyst, or overflowen, will increase your manure, and dung exceedingly: For no man can be Ignorant, how trampling, Carting, and such like actions in wet weather, and when the ground is wet doth increase myre and dirt exceedingly in any place: Yet some may obiect, why then are not Foot-pathes, and High-wayes more Fertile then other places, being they are more fre<g ref="char:EOLhyphen"/>quently trampled, and travailed upon then other places are. Vnto whom I answere, if highwayes and Footpathes were trampled, and travailed on onely in wet weather, and when they are wet, they would be farre more Richer in soyle and more fertile then they are; for as trampling and travailing in wet weather increaseth soyle and Dirt, so in dry weather trampling and travailing wareth and wasteth away both the Dirt and soyle, and causeth Barrennesse and yet how many wayes and pathes also if they should not be yearly supplyed with gravell, and such other barren, and
+<pb facs="tcp:26259:4"/> durable materials would grow Impassable through myre &amp; soyle. Also although trampling and trauayling is good to improove ground, yet continuall trampling, and travailing is hurtfull to ground, because it hindereth the growth of the grasse, and yet in Heathes, and Commons, where are pathes, and tracts that are but seldome trampled, is no heath, yet is there grasse, and more would there bee if they were not overlayd with sheepe, and Cattle, and trampled more in dry weather, then in wet that keepes it under, and hin<g ref="char:EOLhyphen"/>ders the growth thereof.</p>
+               <p>Againe, to manure ground that is dunged when it is wet, with the Manuring barrow trimmed also with dung, or o<g ref="char:EOLhyphen"/>ther Fat earth, or soyle, will increase other manner of soyle and Dirt, then bare trampling or travailing will, and also it will improove it more. If there be any that thinke drow<g ref="char:EOLhyphen"/>ning and overflowing of ground will not improoue it, be<g ref="char:EOLhyphen"/>cause in some places they are faine to cut Furrowes and trenches to draine the same, let them inquire of those who have used the overflowing of ground that lyeth by Rivers, and have improoved the same, and use it yearly. Indeed ar<g ref="char:EOLhyphen"/>rable ground when it is sowen should haue Furrowes, and trenches to draine the same, because too much moysture is hurtfull to most kinde of graine; and therefore they should make their Furrowes so, as that the Raine that falleth upon their Cornefields, may have vent and Current into their pasture ground and lay Feilds, and then they may there en<g ref="char:EOLhyphen"/>viron it so with a banke, as that it may not any wayes breake forth of the same. Thus therefore, if it be one, two, three, foure, or fiue Acres, or more that you would im<g ref="char:EOLhyphen"/>prooue, thus you may order and prepare it, and improove it, and unto any who willeth or desireth to learne more, I will yet shew him divers more excellent wayes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:26259:5"/>
+               <head>The severall benefits that will arise from Mounding of ground with bankes and stopping of Currents of Land waters.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T will mittigate the great Floods, If it cau<g ref="char:EOLhyphen"/>eth them not to cease altogether, that so annoy<g ref="char:EOLhyphen"/>eth the Fennie Countryes and other places. It will improove high grounds, and cause plen<g ref="char:EOLhyphen"/>ty, and prevent dearth and scarcity:</p>
+               <p>It will Increase the old Springs, and make new springs to breake forth, and arise in divers places, and that especi<g ref="char:EOLhyphen"/>ally, If having more Land-water in any place then can be reteyned vpon the same, they make deepe pits or wells for the same to Run into; or if they turne the Current of their water vnto their dry and thirstie Lands, that will receive and drinke in all.</p>
+               <p>Hereby also, they may store themselves with water in the dry and upland Countryes against the summer times and dry seasons, where they haue any gravelly, or Clay Ground.</p>
+            </div>
+            <div type="part">
+               <head>Arguments shewing whither this point of Husbandry bee possible and profitable or no.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Ecause a man cannot speake of any new wayes or points in Husbandry, but divers well experienced men, doe presētly judge the same to be Impossible, or else unpro<g ref="char:EOLhyphen"/>fitable. I will heere breifly discusse these two Questions: that so every one that will, may conceive how possible and profitable they may bee: First, to shew the possibility thereof; let any one place a leaking vessell in the raine, where no spoutes may runne
+<pb facs="tcp:26259:5"/> into the same, and see if it will ever be filled with the raine that shall descend therein; For all sorts of ground will not hold water, and may bee compared to leeking vessels, ex<g ref="char:EOLhyphen"/>cept onely the gravelly, and the Clay ground; so that if men doe but banke their ground a little to keepe the water that falleth thereon upon the same, It will not long abide, if it should descēd never so fast vnlesse it be in gravelly and Clay grounds. And here I know many will say they can<g ref="char:EOLhyphen"/>not practise this point of husbandry without damnifying themselves, because of necessity where there is no dry thir<g ref="char:EOLhyphen"/>sty Land neere, and abundance of Clay or gravelly ground altogether in one place, they must needes drowne some of their owne ground if they should stop the vent and Cur<g ref="char:EOLhyphen"/>rent of the water, and reteyne all that falleth thereon upon the same, unto which I answere, although men in some pla<g ref="char:EOLhyphen"/>ces should drowne 3 or foure Acres in an hundred Acres, yet they cannot be damnified thereby, because those who know what a pond of an Acre, or more is worth, cannot be ignorant that 3, or 4, Acres of Land thus drowned in some places, may yeeld more commodity then ten Acres of dry Land that is worth 30. shillings the Acre.</p>
+               <p>Againe for the generall, better is it to have some hun<g ref="char:EOLhyphen"/>dreds of Acres drowned, and made Fish-pooles, then to have many thousands of Acres lye barraine, and unfruit<g ref="char:EOLhyphen"/>full.</p>
+               <p>And that such places will be as store howses for water a<g ref="char:EOLhyphen"/>gainst the summer times and dry seasons, no man can de<g ref="char:EOLhyphen"/>ny, for whereas <hi>I</hi> have spokē of watering of ground in dry seasons where water is to be had, and some have asked how they should provide water, here is one way, whereby they may provide water in hilly Countryes, and high grounds farre off from Rivers; And although it may be impossible for any one man to reteyne the water within his owne
+<pb facs="tcp:26259:6"/> ground that falleth in many mens Lands; yet is it possible for every one to reteyne the water that shall fall within his owne ground. And therefore not Impossible.</p>
+            </div>
+            <div type="part">
+               <head>A breife Answere vnto what may be objected: or hath beene objected.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Know many there bee, that will say they know many more excellent points of husbandry, then yet hath beene discovered by mee, and I must confesse, I know many particular Husbandmen that doe conceive, and understand those secrets in husban<g ref="char:EOLhyphen"/>dry, that generally is not conceived, nor understood by many that use husbandry, the which I have forborne to treat of, because I would not seeme to discover, what I know to bee understood, and practized by any one alrea<g ref="char:EOLhyphen"/>dy, although I am not ignorant of the same; and that di<g ref="char:EOLhyphen"/>vers husbandmen and others, doe know divers more excel<g ref="char:EOLhyphen"/>lent poynts then hath been discovered, I will beleeve. For I my selfe know many more excellent poynts then I have yet discovered, and yet I know and beleeve that divers that shal succeed unto this generation shall know, &amp; understand, and discover more, then shal be vnderstood, and discovered by any one in this generation. Now to avoid further Con<g ref="char:EOLhyphen"/>troversies; If there be any that shall thinke, or object, that any one point herein discovered, is vnpossible, unprofi<g ref="char:EOLhyphen"/>table, or not worth the practizing, let them but help the Author vnto any barraine Land and they shall soone see the contrary prooved, for their satisfaction.</p>
+               <p>And whereas some I know will be apt to object, That the water lying upon the ground in the winter season, will breed Rushes, and Sedges; I answer, the Manuring barrow (if it be trimmed and used as it may bee) will keepe the ground from bearing of Rushes and Sedges; and also it will kill both Rushes and Sedges in any ground that is na<g ref="char:EOLhyphen"/>turally inclined thereunto.</p>
+            </div>
+         </div>
+         <div type="advert_for_soil_improvements">
+            <pb facs="tcp:26259:6"/>
+            <p>
+               <seg rend="decorInit">A</seg>T <hi>Deptford</hi> in <hi>Kent,</hi> within foure miles of <hi>London,</hi>
+            </p>
+            <p>SHall bee Discovered divers severall plaine, and easie wayes never yet conceived nor practised by any Husbandman, to Improve any manner of barraine Land, although the same bee not worth Twelve-pence the Acre, and to make thereof good Fertile ground, worth X, xx, xxx, or XL. shillings the Acre.</p>
+            <p>Also to kill and destroy Heath, Brakes, Mosse, or any other noy<g ref="char:EOLhyphen"/>some Weeds, or Shrubs, and to make the said ground to become good Meddow, or Pasture ground without ever Plowing of the same.</p>
+            <p>The partie will either take the sayd barraine Land himselfe, and Improove it at his owne charge, or otherwise he will discover to the owners, or tennants thereof; how they may manure, and Improve it at least tenne severall wayes unto those values as are aforesaid to their great profit and advantage, and the publike good.</p>
+            <p>The poore and such as have neither money nor stocke of Cattell to helpe to support themselves, may bee taught divers easie and profitable wayes to improve a reasonable quantity of any barraine Land for their necessary maintenance without money.</p>
+            <p>Hee liveth at the first House in <hi>Butt-lane</hi> neere to the upper Stile in <hi>Bromfield</hi> at lower <hi>Deptford.</hi>
+            </p>
+            <closer>Soli gloriae Deo: Inepte incredulis Infamia.</closer>
+            <closer>
+               <dateline>Cum Privilegio:</dateline>
+               <hi>Vivat Rex.</hi>
+            </closer>
+            <byline>
+               <hi>By</hi> IOHN SHAVV.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
